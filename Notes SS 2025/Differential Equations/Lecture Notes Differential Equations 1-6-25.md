@@ -23,27 +23,49 @@ I have an exam conflict for both existing scheduled exams, as they are the same 
 	- Electrical Circuits
 	- Signal Processing
 # 1.1 ~ Definitions and Terminology
-### y+5=13, find y => y = 8
- ### y^2 +2y + 1 = 0 => (y+1)^2 = 0 => y = -1
+### What is a differential equation?
+- An equation containing the derivatives of one or more unknown functions (or dependent variables), with respect to one or more independent variables, is said to be a differential equation(DE). 
 
 ### Ways of Solving Equations:
 ##### Subtraction
+$$
+y + 5 = 13 \implies y = 8
+$$
 ##### Factoring
+$$
+y^2 + 2y + 1 = 0 \implies (y+1)^2 = 0 \implies y = -1
+$$
+
 ##### Quadratic Formula
 ##### Numerical Techniques
 
-# Differential Equations
-- dy/dx = x^2 
-- y = phi(x) = 1/3x^3 + C 
-- y' - y = 0 => y' = y => y = phi(x) = Ce^x
-- y'' + y = 0 => y'' = -y => y = phi(x) = asin(x)
+# Differential Equations Examples
+$$
+\frac{dy}{dx} = x^2
+$$
+$$
+y = \phi(x) = \frac{1}{3}x^3 + C
+$$
+$$
+y' - y = 0 \implies y' = y \implies y = \phi(x) = Ce^x
+$$
+$$
+y'' + y = 0 \implies y'' = -y \implies y = \phi(x) = a\sin(x)
+$$
 ### Definition 
 [Differential Equations](differential-equations.md) - An equation involving derivatives of one or more functions (aka dependent variables) with respect to one or more independent variables.
 
-	Ex. 1 ~ dy/dx + 5y = e^x or y' + 5y = e^x
-	y' and 5y ~ dependent variable
-	e^x ~ independent variable
-	Ex. 2 ~ u(x, y) = partial^2u/partialx^2 - partial^2u/partialy^2 = 2 partialy/partialx
+###### Example 1:
+$$
+\frac{dy}{dx} + 5y = e^x \equiv y' + 5y = e^x
+$$
+
+In this example $y'$ and $5y$ are the dependent variables, and $e^x$ is the independent variable. 
+
+###### Example 2:
+$$
+u(x, y) = \frac{\partial^2(u)}{\partial(x)^2} - \frac{\partial^2(u)}{\partial(y)^2} = 2 \frac{\partial(y)}{\partial(x)}
+$$
 
 ### Classification by Type
 [ODE](ordinary-differential-equations.md) - Ordinary Differential Equation

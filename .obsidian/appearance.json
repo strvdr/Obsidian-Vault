@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Dracula for Obsidian",
-  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "theme": "obsidian",
+  "cssTheme": "Tokyo Night",
   "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
   "monospaceFontFamily": "CaskaydiaCove Nerd Font"
 }

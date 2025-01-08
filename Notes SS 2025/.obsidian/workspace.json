@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "642bdfc284bbf136",
+    "id": "e255f83d1b6c486a",
     "type": "split",
     "children": [
       {
-        "id": "fe6fbceadff1459f",
+        "id": "e695abacaa30cfa2",
         "type": "tabs",
         "children": [
           {
-            "id": "9f5048e43e810897",
+            "id": "a690a1d81da951d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Lecture Notes Design 1-6-25.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes Design 1-6-25"
+              "title": "Welcome"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a1b0c885b3cf2753",
+    "id": "0cc0075cd1999c02",
     "type": "split",
     "children": [
       {
-        "id": "a7124eea9cdc8fd0",
+        "id": "122b3600ed483983",
         "type": "tabs",
         "children": [
           {
-            "id": "d640aaf7f653f186",
+            "id": "e71050e23d2a6a0c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "b60b6d4d56a4de83",
+            "id": "51486b82f8ecff5b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "4d2fb7c7dcfb8c83",
+            "id": "b9ce8554e92f9185",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "746067fe69b658fa",
+    "id": "4d1af7826e247baa",
     "type": "split",
     "children": [
       {
-        "id": "e7cb11f6944dd727",
+        "id": "15ed3d3b229f73f9",
         "type": "tabs",
         "children": [
           {
-            "id": "a56a457a16537858",
+            "id": "ee788ef8725425b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design/Lecture Notes Design 1-6-25.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lecture Notes Design 1-6-25"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "92cd35150f101d5b",
+            "id": "b237c0059a281a39",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design/Lecture Notes Design 1-6-25.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lecture Notes Design 1-6-25"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "7025b107dcf89c7a",
+            "id": "09d698eee074016d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,22 +134,23 @@
             }
           },
           {
-            "id": "d5042fba42e1d2f1",
+            "id": "c5e7c7df12411c2a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/Lecture Notes Design 1-6-25.md"
+                "file": "Welcome.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture Notes Design 1-6-25"
+              "title": "Outline of Welcome"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,23 +162,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f5048e43e810897",
+  "active": "a690a1d81da951d4",
   "lastOpenFiles": [
-    "Design",
-    "Design/Lecture Notes Design 1-6-25.md",
-    "Data Structures and Algorithms/Lecture Notes DSA 1-6-25.md",
-    "Discrete Math/Lecture Notes Discrete 1-6-25.md",
-    "Backlinks/ordinary-differential-equations.md",
-    "Differential Equations/Lecture Notes Differential Equations 1-6-25.md",
-    "Backlinks/differential-equations.md",
-    "Backlinks",
-    "Linear Algebra/Linear Algebra Important Dates.png",
-    "Linear Algebra/Lecture Notes Linear Algebra 1-6-25.md",
-    "Discrete Math/Discrete Important Dates.png",
-    "Data Structures and Algorithms",
-    "Differential Equations",
-    "Linear Algebra",
-    "Discrete Math",
     "Welcome.md"
   ]
 }
