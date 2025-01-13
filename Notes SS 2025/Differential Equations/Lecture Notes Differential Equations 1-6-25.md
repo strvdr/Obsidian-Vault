@@ -74,3 +74,4 @@ $$
 		- Only one independent variable (x), y^n is the nth derivative of y. 
 [PDE](partial-differential-equation) - Partial Differential Equation 
 	- Has two or more independent variables and partial derivatives
+

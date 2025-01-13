@@ -99,3 +99,57 @@ $$
 5 & 0 & -5 & 10 
 \end{bmatrix}
 $$
+
+---
+# Proposition
+*propositions*
+
+A proposition is a declarative sentence that is either true or false.
+
+---
+# solution set
+
+In mathematics, a solution set is the set of all values that satisfy a system of equations, inequalities, or a statement.
+
+---
+# Row Equivalent
+
+Two matrices are row equivalent if they have the same solution and one is obtained from the other using row operations.
+
+---
+# ODE Solution
+
+Solution: A solution to an order n ODE is a $/phi (x)$ that 
+- is defined on an interval I
+- has atleast n derivatives that are continuous on I
+- satisfies the ODE on I
+
+---
+# family of solutions
+
+A family of solutions is a solution w arbitrary constants. $y=2x^2+C$
+
+---
+# particular solution
+
+A particular solution has no arbitrary constants, $y=2x^2+7$
+
+---
+# Tautology
+
+A proposition which is always true
+
+---
+# Satisfiable
+
+ A compound proposition is satisfiable if there is an assignment of truth values to its variables that make it true. If no such assignment exists, the compound proposition is unsatisfiable.
+
+---
+# Logically Equivalent
+
+Two compound propositions $p$ and $q$ are logically equivalent if $p \iff q$ is a tautology. Denoted $p\equiv q$.
+
+---
+# IVP
+
+Initial Value Problem
