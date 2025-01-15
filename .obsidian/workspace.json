@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5d1d3be586e06cdb",
+        "id": "d676a0f1b3ad19da",
         "type": "tabs",
         "children": [
           {
-            "id": "f54477b606dc1495",
+            "id": "7509ce4786f54221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SS 2025/Differential Equations/1-8-25 Lecture Notes.md",
+                "file": "Notes SS 2025/Linear Algebra/Linear Algebra Lecture Notes 1-15-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-8-25 Lecture Notes"
+              "title": "Linear Algebra Lecture Notes 1-15-25"
             }
           },
           {
-            "id": "5e21d7bf2f81d0d7",
+            "id": "96fb0676d12c8763",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes SS 2025/Discrete Math/Lecture Notes 1-10-25.md",
+                "file": "Notes SS 2025/Differential Equations/Differential Equations Notes 1-15-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture Notes 1-10-25"
-            }
-          },
-          {
-            "id": "628c267c52bee02b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes SS 2025/Linear Algebra/Linear Algebra Lecture Notes 1-10-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Algebra Lecture Notes 1-10-25"
-            }
-          },
-          {
-            "id": "5c602d2050c8a9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes SS 2025/Discrete Math/Lecture Notes 1-8-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Notes 1-8-25"
+              "title": "Differential Equations Notes 1-15-25"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,11 +189,14 @@
   },
   "active": "dcd6bf2fecdd4327",
   "lastOpenFiles": [
-    "Notes SS 2025/Discrete Math/Lecture Notes 1-10-25.md",
-    "Notes SS 2025/Discrete Math/Lecture Notes 1-8-25.md",
-    "DiffEQ Lecture Notes 1-10-25.md",
-    "Notes SS 2025/Linear Algebra/Linear Algebra Lecture Notes 1-10-25.md",
+    "Notes SS 2025/Linear Algebra/Linear Algebra Lecture Notes 1-15-25.md",
+    "Notes SS 2025/Differential Equations/Differential Equations Notes 1-15-25.md",
     "Notes SS 2025/Linear Algebra/Lecture Notes 1-8-25.md",
+    "Notes SS 2025/Linear Algebra/Lecture Notes Linear Algebra 1-6-25.md",
+    "Notes SS 2025/Linear Algebra/Linear Algebra Lecture Notes 1-10-25.md",
+    "Notes SS 2025/Discrete Math/Lecture Notes 1-8-25.md",
+    "Notes SS 2025/Discrete Math/Lecture Notes 1-10-25.md",
+    "Notes SS 2025/Differential Equations/DiffEQ Lecture Notes 1-10-25.md",
     "Notes SS 2025/Differential Equations/1-8-25 Lecture Notes.md",
     "Notes SS 2025/Design/Lecture Notes 1-8-25.md",
     "Notes SS 2025/Differential Equations/Lecture Notes Differential Equations 1-6-25.md",
@@ -232,7 +207,6 @@
     "Daily Notes & Calendar/2025-01-27.md",
     "Daily Notes & Calendar/Tuesday, January 7th, 2025.md",
     "Notes SS 2025/Data Structures and Algorithms/Lecture Notes DSA 1-6-25.md",
-    "Notes SS 2025/Linear Algebra/Lecture Notes Linear Algebra 1-6-25.md",
     "Notes SS 2025/Linear Algebra/Essence of Linear Algebra Notes.md",
     "Notes SS 2025/Linear Algebra/1.1 ~ Systems of Linear Equations.md",
     "Notes SS 2025/Discrete Math/Lecture Notes Discrete 1-6-25.md",
